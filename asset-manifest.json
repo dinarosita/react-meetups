@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-meetups/static/css/main.d14b316e.css",
+    "main.js": "/react-meetups/static/js/main.f083712b.js",
+    "index.html": "/react-meetups/index.html",
+    "main.d14b316e.css.map": "/react-meetups/static/css/main.d14b316e.css.map",
+    "main.f083712b.js.map": "/react-meetups/static/js/main.f083712b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d14b316e.css",
+    "static/js/main.f083712b.js"
+  ]
+}
