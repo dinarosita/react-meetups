@@ -4,7 +4,7 @@ import MeetupList from "../components/meetups/MeetupList";
 const DUMMY_DATA = [
   {
     id: "m1",
-    title: "Jodhpur",
+    title: "Jodhpur Blue City",
     image:
       "https://duaransel.com/wp-content/uploads/2013/08/India-Jodhpur-Blue-City-3-4-1600-2R1.jpg",
     address: "Jodhpur, India",
