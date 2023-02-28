@@ -6,7 +6,7 @@ export default function MeetupList(props) {
   return (
     <ul className={classes.list}>
       {props.meetups.map((meetup) => {
-        return <MeetupItem key={meetup.id} meetup={meetup} />;
+        return <MeetupItem key={meetup.id} title={meetup.title} image={meetup.image} address={meetup.address} description={meetup.description} />;
       })}
     </ul>
   );
